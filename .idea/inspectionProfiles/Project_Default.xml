@@ -1,0 +1,50 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="Trendyol" />
+          <option value="Trendyol" />
+          <option value="Trendyol" />
+          <option value="Trendyol" />
+          <option value="Trendyol" />
+          <option value="Trendyol" />
+          <option value="Trendyol" />
+          <option value="Trendyol" />
+          <option value="Trendyol" />
+          <option value="EnUygun" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="io.netty:netty-handler:4.1.91.Final" />
+          <option value="commons-io:commons-io:2.6" />
+          <option value="com.fasterxml.jackson.core:jackson-databind:2.10.3" />
+          <option value="org.webjars:jquery:3.6.1" />
+          <option value="org.bouncycastle:bcprov-jdk15on:1.64" />
+          <option value="com.google.guava:guava:31.1-jre" />
+          <option value="commons-codec:commons-codec:1.11" />
+          <option value="io.netty:netty-handler:4.1.87.Final" />
+          <option value="org.testng:testng:7.4.0" />
+          <option value="com.google.guava:guava:31.1-jre" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
